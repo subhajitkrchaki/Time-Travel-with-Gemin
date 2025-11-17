@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Time-Travel Booth",
+  "description": "An application that uses Gemini to analyze your photos or transport you to different historical eras. Upload a photo, write a prompt, and let AI edit your image or provide an analysis.",
+  "requestFramePermissions": []
+}
